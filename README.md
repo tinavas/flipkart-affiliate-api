@@ -7,6 +7,7 @@ Most code is well commented and pretty much self explanatory.
 WARNING: Use of these files is not intended for actual websites. currently error checking in my script is very minimal.
 
 ### How to use?
+Add your affiliate id and token in data-updater.php.
 Use CRON or something similar to update json databases regularly. Then you can use Javascript+jQuery or PHP to parse json and show ads. Open public directory of this repo to see an example.
 
 ### I want to test that example?
