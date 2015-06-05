@@ -1,0 +1,123 @@
+/**
+*  Not my code and definitely not usable on actual website!
+*  fetched from http://www.flipkart.com/offers?otracker=hp_nmenu_offer-zone using SnappySnippet.
+*  Modified a little for usablity.
+**/
+
+#offer {
+    color: rgb(219, 43, 43);
+    cursor: pointer;
+    height: 22px;
+    text-align: center;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 219px;
+    perspective-origin: 114.5px 17px;
+    transform-origin: 114.5px 17px;
+    border: 0px none rgb(219, 43, 43);
+    font: normal normal bold normal 17px/22.1000003814697px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    outline: rgb(219, 43, 43) none 0px;
+    overflow: hidden;
+    padding: 6px 5px;
+}/*#DIV_3*/
+
+#prodimg {
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+    height: 180px;
+    position: relative;
+    text-align: center;
+    width: 229px;
+    perspective-origin: 114.5px 100px;
+    transform-origin: 114.5px 100px;
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal normal normal 13px/180px arial, tahoma, verdana, sans-serif;
+    outline: rgb(102, 102, 102) none 0px;
+    padding: 10px 0px;
+}/*#DIV_4*/
+
+#IMG_5 {
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+    height: 126.875px;
+    max-height: 175px;
+    max-width: 175px;
+    text-align: center;
+    vertical-align: middle;
+    width: 175px;
+    perspective-origin: 87.5px 63.4375px;
+    transform-origin: 87.5px 63.4375px;
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal normal normal 13px/180px arial, tahoma, verdana, sans-serif;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#IMG_5*/
+
+#detail {
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+    height: 18px;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 209px;
+    perspective-origin: 104.5px 14.5px;
+    transform-origin: 104.5px 14.5px;
+    border-top: 1px solid rgb(201, 201, 201);
+    border-right: 0px none rgb(102, 102, 102);
+    border-bottom: 0px none rgb(102, 102, 102);
+    border-left: 0px none rgb(102, 102, 102);
+    font: normal normal normal normal 14px/18.2000007629395px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    margin: 0px 10px;
+    outline: rgb(102, 102, 102) none 0px;
+    overflow: hidden;
+    padding: 5px 0px;
+}/*#DIV_6*/
+
+#DIV_11 {
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+    height: 31px;
+    position: absolute;
+    text-align: center;
+    width: 229px;
+    align-self: stretch;
+    perspective-origin: 114.5px 16px;
+    transform-origin: 114.5px 16px;
+    border-top: 1px solid rgb(201, 201, 201);
+    border-right: 0px none rgb(102, 102, 102);
+    border-bottom: 0px none rgb(102, 102, 102);
+    border-left: 0px none rgb(102, 102, 102);
+    font: normal normal normal normal 13px/31px arial, tahoma, verdana, sans-serif;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#DIV_11*/
+
+#DIV_11:after {
+    clear: both;
+    color: rgb(102, 102, 102);
+    cursor: pointer;
+    display: block;
+    text-align: center;
+    visibility: hidden;
+    width: 229px;
+    perspective-origin: 114.5px 0px;
+    transform-origin: 114.5px 0px;
+    content: '.';
+    border: 0px none rgb(102, 102, 102);
+    font: normal normal normal normal 13px/31px arial, tahoma, verdana, sans-serif;
+    outline: rgb(102, 102, 102) none 0px;
+}/*#DIV_11:after*/
+
+#DIV_12 {
+    color: rgb(243, 114, 34);
+    cursor: pointer;
+    float: left;
+    height: 31px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 229px;
+    perspective-origin: 96px 15.5px;
+    transform-origin: 96px 15.5px;
+    font: normal normal bold normal 15px/31px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    outline: rgb(243, 114, 34) none 0px;
+}/*#DIV_12*/
