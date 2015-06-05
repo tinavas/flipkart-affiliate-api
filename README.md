@@ -23,10 +23,13 @@ Easiest way to do this is using php or python's inbuilt http server.
  OR using python
 
     python -m SimpleHTTPServer 8000
-    
+
 Open browser and go to http://localhost:8000
 
 ### Why store json data from API locally on server?
 Flipkart currently limits API calls to 20 per second, on high traffic website this could be a huge trouble, plus storing data locally on server improves speed of serving ads.
 
 You're free to use and redistribute as long as you follow the license terms. Feel free to fork, improve and send PR.
+
+
+![screenshot](http://i.imgur.com/uXmplBq.png "screenshot")
