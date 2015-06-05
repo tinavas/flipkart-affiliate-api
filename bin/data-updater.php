@@ -14,10 +14,8 @@
      * Find your affId here - https://www.flipkart.com/affiliate/edit
      * Get access token from here - http://www.flipkart.com/affiliate/apiaccess
      */
-    // $affId = '<your-affId>';
-    // $affToken = '<your-api-access-token>';
-    $affId = 'sitamenat';
-    $affToken = '1aea5b7ffd9b4f00a2a2b6ba09c11d79';
+    $affId = '<your-affId>';
+    $affToken = '<your-api-access-token>';
 
     /**
      * setting headers
